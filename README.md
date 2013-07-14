@@ -1,5 +1,5 @@
 Sample implementation of RNGCryptoServiceProvider 
-==========================
+------------------------
 Here I use the standard APIs in .NET to safely hash password. It uses both key stretching and salting.
 I include a Generator, a Validate and sample usage.
 
